@@ -1,0 +1,4 @@
+# WotW plugin.yml
+name: WotW
+main: com.gmail.Xeiotos.WotW.WotW
+version: 1.0.0

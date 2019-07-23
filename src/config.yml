@@ -1,0 +1,5 @@
+levelCap: 100
+comboTimeout: 20
+gameStages:
+  interim: 120
+  solstice: 60
